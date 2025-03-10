@@ -7,12 +7,18 @@ Un portfolio développé avec Next.js pour une performance optimisée, une confi
 Vous pouvez télécharger ce projet sous les conditions suivantes : 
 ***Ce projet peut être utilisé à titre d'inspiration, mais toute reproduction intégrale est interdite. Si un site est créé en utilisant le même code, il sera automatiquement signalé pour violation des droits d'auteur.***
 
-Etapes pour visualiser le projet :
+## Etapes pour visualiser le projet :
+
 1.Ouvrez l'Invité de Commandes/Terminal
+
 2.Suivez les commandes suivantes :
+
 ```
-1. cd projet
-2. code .
-3. npm install
-4. npm run dev
+cd /projet/
+code .
+npm install
+npm run dev
 ```
+
+### Attention :
+***Remplacer le "projet" par la route qui permet d'acceder au projet***
